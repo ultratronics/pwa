@@ -1,6 +1,4 @@
 {
-  "short_name": "Weather",
-  "name": "Weather: Do I need an umbrella?",
   "icons": [
     {
       "src": "feather.png",
@@ -13,11 +11,11 @@
       "sizes": "512x512"
     }
   ],
-  "id": "/pwa/index.html",
-  "start_url": "/pwa/index.html",
-  "background_color": "#3367D6",
+  "name": "Words",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
   "display": "standalone",
+  "orientation": "portrait",
   "scope": "/pwa/",
-  "theme_color": "#3367D6",
-  "description": "Weather forecast information"
+  "start_url": "/pwa/"
 }
