@@ -1,1 +1,21 @@
-
+{
+  "icons": [
+    {
+      "src": "feather.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "bird.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "name": "Words",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/pwa/",
+  "start_url": "/pwa/"
+}
