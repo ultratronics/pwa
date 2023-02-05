@@ -10,11 +10,11 @@ self.addEventListener('install', event => {
 
     cache.addAll([
 
-      '/',
+      '/pwa',
 
-      '/converter.js',
+      '/pwa/main.js',
 
-      '/converter.css'
+      '/pwa/style.css'
 
     ]);
 
